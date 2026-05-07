@@ -1,0 +1,6 @@
+{
+  "name": "MD & Excel Merge Gen",
+  "description": "Extract data from Excel and use a Markdown template to generate a new compiled Markdown file via AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
